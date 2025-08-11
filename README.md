@@ -66,7 +66,7 @@ LinkedIn: Discovered topics with highest engagement rates and optimal posting da
 ROI improvement strategies based on data patterns.
 
 Author: Omkar Panchal
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: www.linkedin.com/in/omkar-panchal20
 Email: omkarp110820@gmail.com
 
 
