@@ -55,7 +55,6 @@ media-analytics-dashboard/
 ---
 
 ## 📊 Dashboards Preview
-*(Screenshots can be added here)*  
 **Power BI** – Facebook Campaign Analysis  
 **Tableau** – LinkedIn Engagement Insights  
 
